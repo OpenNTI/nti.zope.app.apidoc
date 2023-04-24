@@ -1,1 +1,2 @@
-Zope Foundation and Contributors
+Copyright (c) 2011-2022 NextThought, LLC
+Copyright (c) 2023 Jason Madden
